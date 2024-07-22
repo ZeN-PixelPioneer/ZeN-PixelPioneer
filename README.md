@@ -4,7 +4,7 @@ Hi there, I'm Shegaw👋
 
 🎓 I'm currently studying the Erasmus Mundus Joint Master's program in Medical Imaging and Applications (MAIA), coordinated by the University of Girona (UdG, Spain) with the University of Burgundy (uB, France) and the University of Cassino and Southern Lazio (UNICLAM, Italy) as partners.  
 💻 My studies focus on the use of medical images for the development of a Computer-Aided Diagnosis (CAD) system to help healthcare experts achieve more accurate diagnosis results using AI and machine learning technology.  
-👯 I’m looking to collaborate on innovative healthcare technology projects, particularly in AI-driven diagnostics, telemedicine solutions, and patient data analysis.  
+👯 I’m looking to collaborate on innovative healthcare technology projects, particularly in AI-driven diagnostics, and patient data analysis.  
 📫 How to reach me: nibret.shegaw@gmail.com | ze.nibret12@gmail.com | [LinkedIn](https://www.linkedin.com/in/shegaw-nibret-gelaw-b8b077168/)  
 ⚡ Fun fact 😄: I enjoy exploring the intersection of technology and art, creating digital artworks in my free time.
 
@@ -75,7 +75,6 @@ Y. Assefa, E. Alemneh, S. Nibret, A. Worku, 2023 ICT4DA Conference, IEEE.
 **Databases:**
 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## GitHub Stats
